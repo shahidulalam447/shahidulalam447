@@ -1,11 +1,11 @@
-![Full Stack Developer(C#.NET).]((https://media.licdn.com/dms/image/D5616AQE1wsOX1AZ3DQ/profile-displaybackgroundimage-shrink_350_1400/0/1688845511280?e=1694044800&v=beta&t=d20qrgcrlth8anyHDR3sK6qYGSKfuO3DnbGVuKNaQjY))
+![Full Stack Developer(C#.NET).](https://media.licdn.com/dms/image/D5616AQGYXi12RteVcA/profile-displaybackgroundimage-shrink_350_1400/0/1688916988591?e=1694649600&v=beta&t=2pJIN2erPoNcVaTr-m8eXbdMQkiKTiF97gvL3fCAjZM)
 
 ### Hi, there 👋 Md. Shahidul Alam.
 #### Full Stack Developer(C#.NET).
 
 As a Full Stack Developer (C#.NET), my career objective is to utilize my expertise in front-end and back-end development to create robust and user-friendly applications. I am dedicated to delivering high-quality code, optimizing performance, and staying updated with industry trends. I strive to contribute to a dynamic team, driving innovation and achieving exceptional results in every project.
 
-Skills: SQL |C# | HTML-5| CSS-3 |JavaScript | Bootstrap-5 | UML | Node.js | XML |ASP .NET MVC-5 | ASP .NET Core | Web API |Angular-15|React JS|Blazor|MAUI|SignalR
+Skills: SQL |C# | HTML-5| CSS-3 |JavaScript | Bootstrap-5 | UML | Node.js | XML |ASP .NET MVC-5 | ASP .NET Core | Web API |Angular-16|React JS|Blazor|MAUI|SignalR
 
 - 👨‍💻 I’m currently working on IsDB-BISEW IT Scholarship Programme as a Trainee 
 - 📘 I’m currently learning React JS 
