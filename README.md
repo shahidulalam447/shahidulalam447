@@ -1,7 +1,7 @@
-![Full Stack Developer(C#.NET).](https://media.licdn.com/dms/image/D5616AQFlFnx5bcbjcA/profile-displaybackgroundimage-shrink_350_1400/0/1689009430096?e=1694649600&v=beta&t=pv8xdvsppZ-Wt86AwYqN-0krnwyHSqUSNfMWO2nlHnw)
+![Full Stack Developer(C#.NET).](https://media.licdn.com/dms/image/D5616AQE5d-AcPQwerQ/profile-displaybackgroundimage-shrink_350_1400/0/1691865693682?e=1697068800&v=beta&t=s43imr-0ZvT73CYdIYaaPWvSMlWpeMwJ491jf26vwLQ)
 
 
-### Hi, there 👋 Md. Shahidul Alam.
+### Hi, there  MD SHAHIDUL ALAM.
 #### Full Stack Developer(C#.NET).
 
 As a Full Stack Developer (C#.NET), my career objective is to utilize my expertise in front-end and back-end development to create robust and user-friendly applications. I am dedicated to delivering high-quality code, optimizing performance, and staying updated with industry trends. I strive to contribute to a dynamic team, driving innovation and achieving exceptional results in every project.
