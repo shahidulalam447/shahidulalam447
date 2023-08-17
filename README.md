@@ -14,10 +14,7 @@ Skills: SQL |C# | HTML-5| CSS-3 |JavaScript | Bootstrap-5 | UML | Node.js | XML 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidulalam447)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahidulalam447/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shahidulalam447)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidulalam447&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/shahidulalam447)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shahidulalam447)  
 
